@@ -1,0 +1,53 @@
+Satir sayisi: 1000
+Tamamen ayni satir olmayan kayit: 1000
+Bos deger sayilari:
+ kitap_adi      0
+fiyat          0
+puan           0
+stok_durumu    0
+kategori       0
+dtype: int64
+Fiyat tipi: float64 | Puan tipi: int64
+            fiyat         puan
+count  1000.00000  1000.000000
+mean     35.07035     2.923000
+std      14.44669     1.434967
+min      10.00000     1.000000
+25%      22.10750     2.000000
+50%      35.98000     3.000000
+75%      47.45750     4.000000
+max      59.99000     5.000000
+
+En pahali 10 kategori:
+                    mean  count
+kategori                      
+Suspense          58.33      1
+Novels            54.81      1
+Politics          53.61      3
+Health            51.45      4
+New Adult         46.38      6
+Christian         42.50      3
+Sports and Games  41.17      5
+Self Help         40.62      5
+Travel            39.79     11
+Fantasy           39.59     48
+
+Puan dagilimi:
+ puan
+1    226
+2    196
+3    203
+4    179
+5    196
+Name: count, dtype: int64
+
+Puana gore fiyat:
+        mean  median  count
+puan                      
+1     34.56   34.77    226
+2     34.81   36.22    196
+3     34.69   33.78    203
+4     36.09   37.80    179
+5     35.37   36.90    196
+
+Pearson korelasyonu (puan, fiyat): 0.0282

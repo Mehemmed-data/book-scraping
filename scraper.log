@@ -1,0 +1,82 @@
+2026-11-07 14:48:30,017 [INFO] 50 kategori bulundu.
+2026-11-07 14:48:31,161 [INFO] Travel               sayfa 1: 11 kitap
+2026-11-07 14:48:32,215 [INFO] Mystery              sayfa 1: 20 kitap
+2026-11-07 14:48:33,268 [INFO] Mystery              sayfa 2: 12 kitap
+2026-11-07 14:48:34,498 [INFO] Historical Fiction   sayfa 1: 20 kitap
+2026-11-07 14:48:35,549 [INFO] Historical Fiction   sayfa 2: 6 kitap
+2026-11-07 14:48:36,766 [INFO] Sequential Art       sayfa 1: 20 kitap
+2026-11-07 14:48:37,988 [INFO] Sequential Art       sayfa 2: 20 kitap
+2026-11-07 14:48:39,212 [INFO] Sequential Art       sayfa 3: 20 kitap
+2026-11-07 14:48:40,277 [INFO] Sequential Art       sayfa 4: 15 kitap
+2026-11-07 14:48:41,498 [INFO] Classics             sayfa 1: 19 kitap
+2026-11-07 14:48:42,560 [INFO] Philosophy           sayfa 1: 11 kitap
+2026-11-07 14:48:43,797 [INFO] Romance              sayfa 1: 20 kitap
+2026-11-07 14:48:44,863 [INFO] Romance              sayfa 2: 15 kitap
+2026-11-07 14:48:46,078 [INFO] Womens Fiction       sayfa 1: 17 kitap
+2026-11-07 14:48:47,315 [INFO] Fiction              sayfa 1: 20 kitap
+2026-11-07 14:48:48,531 [INFO] Fiction              sayfa 2: 20 kitap
+2026-11-07 14:48:49,750 [INFO] Fiction              sayfa 3: 20 kitap
+2026-11-07 14:48:50,803 [INFO] Fiction              sayfa 4: 5 kitap
+2026-11-07 14:48:52,056 [INFO] Childrens            sayfa 1: 20 kitap
+2026-11-07 14:48:53,141 [INFO] Childrens            sayfa 2: 9 kitap
+2026-11-07 14:48:54,211 [INFO] Religion             sayfa 1: 7 kitap
+2026-11-07 14:48:55,466 [INFO] Nonfiction           sayfa 1: 20 kitap
+2026-11-07 14:48:56,728 [INFO] Nonfiction           sayfa 2: 20 kitap
+2026-11-07 14:48:57,988 [INFO] Nonfiction           sayfa 3: 20 kitap
+2026-11-07 14:48:59,242 [INFO] Nonfiction           sayfa 4: 20 kitap
+2026-11-07 14:49:00,411 [INFO] Nonfiction           sayfa 5: 20 kitap
+2026-11-07 14:49:01,489 [INFO] Nonfiction           sayfa 6: 10 kitap
+2026-11-07 14:49:02,567 [INFO] Music                sayfa 1: 13 kitap
+2026-11-07 14:49:03,835 [INFO] Default              sayfa 1: 20 kitap
+2026-11-07 14:49:05,092 [INFO] Default              sayfa 2: 20 kitap
+2026-11-07 14:49:06,352 [INFO] Default              sayfa 3: 20 kitap
+2026-11-07 14:49:07,671 [INFO] Default              sayfa 4: 20 kitap
+2026-11-07 14:49:08,938 [INFO] Default              sayfa 5: 20 kitap
+2026-11-07 14:49:10,197 [INFO] Default              sayfa 6: 20 kitap
+2026-11-07 14:49:11,470 [INFO] Default              sayfa 7: 20 kitap
+2026-11-07 14:49:12,552 [INFO] Default              sayfa 8: 12 kitap
+2026-11-07 14:49:13,806 [INFO] Science Fiction      sayfa 1: 16 kitap
+2026-11-07 14:49:14,857 [INFO] Sports and Games     sayfa 1: 5 kitap
+2026-11-07 14:49:16,091 [INFO] Add a comment        sayfa 1: 20 kitap
+2026-11-07 14:49:17,345 [INFO] Add a comment        sayfa 2: 20 kitap
+2026-11-07 14:49:18,601 [INFO] Add a comment        sayfa 3: 20 kitap
+2026-11-07 14:49:19,668 [INFO] Add a comment        sayfa 4: 7 kitap
+2026-11-07 14:49:20,943 [INFO] Fantasy              sayfa 1: 20 kitap
+2026-11-07 14:49:22,209 [INFO] Fantasy              sayfa 2: 20 kitap
+2026-11-07 14:49:23,289 [INFO] Fantasy              sayfa 3: 8 kitap
+2026-11-07 14:49:24,363 [INFO] New Adult            sayfa 1: 6 kitap
+2026-11-07 14:49:25,625 [INFO] Young Adult          sayfa 1: 20 kitap
+2026-11-07 14:49:26,888 [INFO] Young Adult          sayfa 2: 20 kitap
+2026-11-07 14:49:27,991 [INFO] Young Adult          sayfa 3: 14 kitap
+2026-11-07 14:49:29,241 [INFO] Science              sayfa 1: 14 kitap
+2026-11-07 14:49:30,503 [INFO] Poetry               sayfa 1: 19 kitap
+2026-11-07 14:49:31,555 [INFO] Paranormal           sayfa 1: 1 kitap
+2026-11-07 14:49:32,629 [INFO] Art                  sayfa 1: 8 kitap
+2026-11-07 14:49:33,698 [INFO] Psychology           sayfa 1: 7 kitap
+2026-11-07 14:49:34,768 [INFO] Autobiography        sayfa 1: 9 kitap
+2026-11-07 14:49:35,824 [INFO] Parenting            sayfa 1: 1 kitap
+2026-11-07 14:49:36,880 [INFO] Adult Fiction        sayfa 1: 1 kitap
+2026-11-07 14:49:37,982 [INFO] Humor                sayfa 1: 10 kitap
+2026-11-07 14:49:39,231 [INFO] Horror               sayfa 1: 17 kitap
+2026-11-07 14:49:40,537 [INFO] History              sayfa 1: 18 kitap
+2026-11-07 14:49:41,797 [INFO] Food and Drink       sayfa 1: 20 kitap
+2026-11-07 14:49:42,878 [INFO] Food and Drink       sayfa 2: 10 kitap
+2026-11-07 14:49:43,953 [INFO] Christian Fiction    sayfa 1: 6 kitap
+2026-11-07 14:49:45,031 [INFO] Business             sayfa 1: 12 kitap
+2026-11-07 14:49:46,094 [INFO] Biography            sayfa 1: 5 kitap
+2026-11-07 14:49:47,172 [INFO] Thriller             sayfa 1: 11 kitap
+2026-11-07 14:49:48,230 [INFO] Contemporary         sayfa 1: 3 kitap
+2026-11-07 14:49:49,295 [INFO] Spirituality         sayfa 1: 6 kitap
+2026-11-07 14:49:50,351 [INFO] Academic             sayfa 1: 1 kitap
+2026-11-07 14:49:51,411 [INFO] Self Help            sayfa 1: 5 kitap
+2026-11-07 14:49:52,466 [INFO] Historical           sayfa 1: 2 kitap
+2026-11-07 14:49:53,529 [INFO] Christian            sayfa 1: 3 kitap
+2026-11-07 14:49:54,581 [INFO] Suspense             sayfa 1: 1 kitap
+2026-11-07 14:49:55,634 [INFO] Short Stories        sayfa 1: 1 kitap
+2026-11-07 14:49:56,695 [INFO] Novels               sayfa 1: 1 kitap
+2026-11-07 14:49:57,753 [INFO] Health               sayfa 1: 4 kitap
+2026-11-07 14:49:58,810 [INFO] Politics             sayfa 1: 3 kitap
+2026-11-07 14:49:59,862 [INFO] Cultural             sayfa 1: 1 kitap
+2026-11-07 14:50:00,927 [INFO] Erotica              sayfa 1: 1 kitap
+2026-11-07 14:50:01,980 [INFO] Crime                sayfa 1: 1 kitap
+2026-11-07 14:50:01,995 [INFO] Toplam 1000 kitap (1000 benzersiz) kitaplar.csv dosyasina yazildi. Sure: 93 sn
